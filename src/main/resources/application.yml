@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIAS64F4XTJMYDJBLZN
+      secret-key: 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
+server:
+  port: 8073
